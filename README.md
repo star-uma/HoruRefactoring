@@ -1,6 +1,6 @@
 # HoruRefactoring
 
-Refactoring of the **Horu** robot control system — migrating from Simulink + Arduino IDE to a fully version-controlled Python + VS Code environment.
+Refactoring of the **OLD Horu** robot control system — migrating from Simulink + Arduino IDE to a fully version-controlled Python + VS Code environment.
 
 ## What is Horu?
 

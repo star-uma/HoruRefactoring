@@ -1,0 +1,5 @@
+{
+  "board": "arduino:samd:mkrwifi1010",
+  "port": "COM3",
+  "sketch": "firmware/starcrawler_mkr_traccion/starcrawler_mkr_traccion.ino"
+}

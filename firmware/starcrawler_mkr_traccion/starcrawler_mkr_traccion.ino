@@ -1,4 +1,6 @@
 /*
+    Autor Mario
+
  * starcrwaler_mkr_traccion.ino
  * =====================
  * Firmware de prueba para el Arduino MKR WiFi 1010 - Modo 1 (Tracción diferencial).
